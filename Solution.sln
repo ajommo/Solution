@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "World", "..\World\World.csp
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQL", "..\SQL\SQL.sqlproj", "{2D4DC30C-7A23-4C90-8333-A52C4C56BC39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher", "..\Launcher\Launcher.csproj", "{1F3F2D4E-823D-4AC1-8D15-79B3148C8AEC}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\Documentation\Documentation.projitems*{3041990d-029f-4f78-8eb9-6eef597a62b5}*SharedItemsImports = 13
@@ -40,6 +42,10 @@ Global
 		{2D4DC30C-7A23-4C90-8333-A52C4C56BC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D4DC30C-7A23-4C90-8333-A52C4C56BC39}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2D4DC30C-7A23-4C90-8333-A52C4C56BC39}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F3F2D4E-823D-4AC1-8D15-79B3148C8AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3F2D4E-823D-4AC1-8D15-79B3148C8AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3F2D4E-823D-4AC1-8D15-79B3148C8AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3F2D4E-823D-4AC1-8D15-79B3148C8AEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
